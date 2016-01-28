@@ -7,7 +7,7 @@
 
 2. Download [docker-elasticsearch](https://github.com/sasund/docker-elasticsearch).
 
-3. Build image from Dockerfile: `docker build -t="elasticsearch-single" .`)
+3. Build image from Dockerfile: `docker build -t="elasticsearch-single" .`
 
 
 ### Usage
